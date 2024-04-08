@@ -1,6 +1,6 @@
-# QR code component
+# Blog preview card
 
-A responsive QR code component. This page was built as a front-end project of [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+A responsive Blog preview card, This page was built as a front-end project of [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 - [Page](https://sabiqhashil.github.io/qr_code_responsive/) - Final result of the project
 
