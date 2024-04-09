@@ -1,6 +1,6 @@
 # Blog preview card
 
-A responsive Blog preview card, This page was built as a front-end project of [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+A responsive Blog preview card, This page was built as a front-end project of [Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
 
 - [Page](https://sabiqhashil.github.io/blog_preview-responsive/) - Final result of the project
 
