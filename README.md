@@ -1,4 +1,4 @@
-# Blog preview card
+# Frontend Mentor - Blog preview card
 
 A responsive Blog preview card, This page was built as a front-end project of [Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
 
