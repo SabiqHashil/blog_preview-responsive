@@ -2,7 +2,7 @@
 
 A responsive Blog preview card, This page was built as a front-end project of [Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
 
-- [Page](https://sabiqhashil.github.io/blog_preview-responsive/) - Final result of the project
+- [Page](https://blog-preview-responsive.vercel.app/) - Final result of the project
 
 ## Built with
 
